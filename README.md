@@ -1,8 +1,8 @@
-<h1 align="center"> BUSINESS BOX  </h1>
+<h1 align="center"> SOFTBOX BUSIBOX  </h1>
 
 ## Visão Geral  
 
-O **Business Box** é uma plataforma desenvolvida para otimizar a gestão e a divulgação de serviços. O sistema proporciona um ambiente eficiente para **prestadores de serviço** gerenciarem seus negócios e para **clientes** encontrarem profissionais qualificados com facilidade.  
+O **BUSIBOX** é uma plataforma desenvolvida para otimizar a gestão e a divulgação de serviços. O sistema proporciona um ambiente eficiente para **prestadores de serviço** gerenciarem seus negócios e para **clientes** encontrarem profissionais qualificados com facilidade.  
 
 ## Objetivo  
 
@@ -30,5 +30,5 @@ Para reforçar a identidade da plataforma, as seguintes cores foram adotadas no 
 
 ## Sobre a Empresa  
 
-O Business Box é um produto desenvolvido pela **Softbox Solutions**, com o compromisso de oferecer ferramentas inovadoras para otimizar a gestão de serviços.  
+O BusiBox é um produto desenvolvido pela **Softbox Solutions**, com o compromisso de oferecer ferramentas inovadoras para otimizar a gestão de serviços.  
 
